@@ -2,10 +2,10 @@ let userName = prompt('come ti chiami?')
 console.log(userName)
 
 
-let userSurname = prompt('quale è il tuo cognome?')
+let userSurname = prompt('quale è il tuo cognome?','inserisci il tuo cognome')
 console.log(userSurname)
 
-let userColor = prompt('quale è il tuo colore preferito?')
+let userColor = prompt('quale è il tuo colore preferito?','inserisci il tuo colore preferito')
 console.log(userColor)
 
 const number = 21
